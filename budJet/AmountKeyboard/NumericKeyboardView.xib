@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SF-Pro-Text-Medium.otf">
+            <string>SFProText-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="ZNY-QI-bwE" customClass="AmountKeyboardView" customModule="budJet" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="B6r-UJ-04u">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
+                    <color key="backgroundColor" red="0.78431372549019607" green="0.78431372549019607" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="WjI-c5-2Nb">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="kQb-0B-SQf">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="62"/>
+                            <subviews>
+                                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KFS-jK-F6a">
+                                    <rect key="frame" x="0.0" y="0.0" width="124.5" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="1">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7F0-n0-exF">
+                                    <rect key="frame" x="125.5" y="0.0" width="124" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="2">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MPD-w3-Br7">
+                                    <rect key="frame" x="250.5" y="0.0" width="124.5" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="3">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="kiE-i9-sLb">
+                            <rect key="frame" x="0.0" y="63" width="375" height="61.5"/>
+                            <subviews>
+                                <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Eo-Nj-IRX">
+                                    <rect key="frame" x="0.0" y="0.0" width="124.5" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="4">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HFG-AO-z3v">
+                                    <rect key="frame" x="125.5" y="0.0" width="124" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="5">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8b1-LX-crO">
+                                    <rect key="frame" x="250.5" y="0.0" width="124.5" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="6">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="GH0-8o-ZBX">
+                            <rect key="frame" x="0.0" y="125.5" width="375" height="62"/>
+                            <subviews>
+                                <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jv9-y4-7IX">
+                                    <rect key="frame" x="0.0" y="0.0" width="124.5" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="7">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lb5-Sw-bi6">
+                                    <rect key="frame" x="125.5" y="0.0" width="124" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="8">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3RG-xp-DNS">
+                                    <rect key="frame" x="250.5" y="0.0" width="124.5" height="62"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="9">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="Bth-y0-A96">
+                            <rect key="frame" x="0.0" y="188.5" width="375" height="61.5"/>
+                            <subviews>
+                                <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jGs-TL-IKV" userLabel="DotButton">
+                                    <rect key="frame" x="0.0" y="0.0" width="124.5" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title=".">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O2G-lX-wHq">
+                                    <rect key="frame" x="125.5" y="0.0" width="124" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <fontDescription key="fontDescription" name="SFProText-Medium" family="SF Pro Text" pointSize="20"/>
+                                    <state key="normal" title="0">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                                <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gf2-xu-Fga">
+                                    <rect key="frame" x="250.5" y="0.0" width="124.5" height="61.5"/>
+                                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="calibratedRGB"/>
+                                    <state key="normal" image="BackspaceIcon">
+                                        <color key="titleColor" red="0.3921568627" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                </button>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </stackView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nnv-l2-iR2">
+                    <rect key="frame" x="0.0" y="250" width="375" height="0.0"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.94999999999999996" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.7843137255" green="0.7843137255" blue="0.7843137255" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="nnv-l2-iR2" secondAttribute="trailing" id="1E1-kJ-vZr"/>
+                <constraint firstItem="nnv-l2-iR2" firstAttribute="leading" secondItem="ZNY-QI-bwE" secondAttribute="leading" id="7l7-3z-WXE"/>
+                <constraint firstItem="6tf-DP-aTC" firstAttribute="bottom" secondItem="B6r-UJ-04u" secondAttribute="bottom" id="O04-d5-utF"/>
+                <constraint firstItem="6tf-DP-aTC" firstAttribute="trailing" secondItem="B6r-UJ-04u" secondAttribute="trailing" id="OfJ-oL-VMU"/>
+                <constraint firstItem="6tf-DP-aTC" firstAttribute="trailing" secondItem="WjI-c5-2Nb" secondAttribute="trailing" id="OtU-rE-j7C"/>
+                <constraint firstItem="nnv-l2-iR2" firstAttribute="top" secondItem="WjI-c5-2Nb" secondAttribute="bottom" priority="999" constant="1" id="UJF-Xq-QDf"/>
+                <constraint firstItem="6tf-DP-aTC" firstAttribute="bottom" secondItem="WjI-c5-2Nb" secondAttribute="bottom" id="V3O-vV-Pic"/>
+                <constraint firstItem="B6r-UJ-04u" firstAttribute="top" secondItem="6tf-DP-aTC" secondAttribute="top" id="mI9-xi-gnL"/>
+                <constraint firstAttribute="bottom" secondItem="nnv-l2-iR2" secondAttribute="bottom" id="nHR-LR-36a"/>
+                <constraint firstItem="B6r-UJ-04u" firstAttribute="leading" secondItem="6tf-DP-aTC" secondAttribute="leading" id="nR7-aU-fFQ"/>
+                <constraint firstItem="WjI-c5-2Nb" firstAttribute="leading" secondItem="6tf-DP-aTC" secondAttribute="leading" id="oYG-GM-fBg"/>
+                <constraint firstItem="WjI-c5-2Nb" firstAttribute="top" secondItem="6tf-DP-aTC" secondAttribute="top" id="wyr-H8-aB0"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="6tf-DP-aTC"/>
+            <connections>
+                <outlet property="backspaceKey" destination="gf2-xu-Fga" id="rTz-sX-c7a"/>
+                <outlet property="dotKey" destination="jGs-TL-IKV" id="rdr-g3-J3U"/>
+                <outletCollection property="numberKeys" destination="O2G-lX-wHq" collectionClass="NSMutableArray" id="ODF-4Q-sAa"/>
+                <outletCollection property="numberKeys" destination="KFS-jK-F6a" collectionClass="NSMutableArray" id="mGT-EM-SjZ"/>
+                <outletCollection property="numberKeys" destination="7F0-n0-exF" collectionClass="NSMutableArray" id="d4Q-WL-TZJ"/>
+                <outletCollection property="numberKeys" destination="MPD-w3-Br7" collectionClass="NSMutableArray" id="1of-5P-Iae"/>
+                <outletCollection property="numberKeys" destination="2Eo-Nj-IRX" collectionClass="NSMutableArray" id="dkc-uh-hsF"/>
+                <outletCollection property="numberKeys" destination="HFG-AO-z3v" collectionClass="NSMutableArray" id="y0w-Ck-pdV"/>
+                <outletCollection property="numberKeys" destination="8b1-LX-crO" collectionClass="NSMutableArray" id="6pf-mr-Y7K"/>
+                <outletCollection property="numberKeys" destination="jv9-y4-7IX" collectionClass="NSMutableArray" id="dWB-Av-vL6"/>
+                <outletCollection property="numberKeys" destination="lb5-Sw-bi6" collectionClass="NSMutableArray" id="NCb-Je-33Z"/>
+                <outletCollection property="numberKeys" destination="3RG-xp-DNS" collectionClass="NSMutableArray" id="5E1-FT-qq4"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="BackspaceIcon" width="30" height="30"/>
+    </resources>
+</document>

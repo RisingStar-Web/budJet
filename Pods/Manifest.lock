@@ -1,0 +1,58 @@
+PODS:
+  - BetterSegmentedControl (1.0.3)
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - DateToolsSwift (4.0.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - JTAppleCalendar (7.1.7)
+  - KeychainAccess (3.1.2)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SmileLock (3.0.6)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.2.0)
+  - SwipeCellKit (2.5.1)
+
+DEPENDENCIES:
+  - BetterSegmentedControl
+  - Charts
+  - DateToolsSwift
+  - IQKeyboardManagerSwift
+  - JTAppleCalendar
+  - KeychainAccess
+  - SkyFloatingLabelTextField
+  - SmileLock
+  - SnapKit
+  - SwiftyJSON
+  - SwipeCellKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BetterSegmentedControl
+    - Charts
+    - DateToolsSwift
+    - IQKeyboardManagerSwift
+    - JTAppleCalendar
+    - KeychainAccess
+    - SkyFloatingLabelTextField
+    - SmileLock
+    - SnapKit
+    - SwiftyJSON
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 4e3bd0bd517b0f6077c9e17f5663a01cff48e2c5
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  DateToolsSwift: 875d97ff9e3a5d54abdd67a269b3f51c757b71ab
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  JTAppleCalendar: 96da4d8388fa6dc82d6a60d41ef36a015e167e2f
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SmileLock: f9d8a44861dbdd1d2e48525577fb5dc0e9c2d314
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwipeCellKit: 30fd6a4f8a8b8ac864ea389c8b4c8bac5ba5471a
+
+PODFILE CHECKSUM: 1ea6b683b33fb5ab3eb3c111054902c03f587c52
+
+COCOAPODS: 1.6.0.beta.2

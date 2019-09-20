@@ -1,0 +1,127 @@
+ [
+  {
+  "id": 1,
+  "income": true,
+  "key": "Business"
+  },
+  {
+  "id": 2,
+  "income": true,
+  "key": "Sallary"
+  },
+  {
+  "id": 3,
+  "income": true,
+  "key": "Benefit"
+  },
+  {
+  "id": 4,
+  "income": true,
+  "key": "Presents"
+  },
+  {
+  "id": 5,
+  "income": true,
+  "key": "Perk"
+  },
+  {
+  "id": 6,
+  "income": true,
+  "key": "Dividend"
+  },
+  {
+  "id": 7,
+  "income": true,
+  "key": "Grants"
+  },
+  {
+  "id": 8,
+  "income": true,
+  "key": "Others"
+  },
+  {
+  "id": 9,
+  "income": false,
+  "key": "Vehicle"
+  },
+  {
+  "id": 10,
+  "income": false,
+  "key": "Business"
+  },
+  {
+  "id": 11,
+  "income": false,
+  "key": "Electronics"
+  },
+  {
+  "id": 12,
+  "income": false,
+  "key": "Children"
+  },
+  {
+  "id": 13,
+  "income": false,
+  "key": "Pets"
+  },
+  {
+  "id": 14,
+  "income": false,
+  "key": "Health_beauty"
+  },
+  {
+  "id": 15,
+  "income": false,
+  "key": "Loans_credits"
+  },
+  {
+  "id": 16,
+  "income": false,
+  "key": "Utilities"
+  },
+  {
+  "id": 17,
+  "income": false,
+  "key": "Taxes"
+  },
+  {
+  "id": 18,
+  "income": false,
+  "key": "Education"
+  },
+  {
+  "id": 19,
+  "income": false,
+  "key": "Clothes_accessories"
+  },
+  {
+  "id": 20,
+  "income": false,
+  "key": "Entertainment_fun"
+  },
+  {
+  "id": 21,
+  "income": false,
+  "key": "Food"
+  },
+  {
+  "id": 22,
+  "income": false,
+  "key": "Others"
+  },
+  {
+  "id": 23,
+  "income": false,
+  "key": "Household"
+  },
+  {
+  "id": 24,
+  "income": false,
+  "key": "Insurance"
+  },
+  {
+  "id": 25,
+  "income": false,
+  "key": "Hobby"
+  }
+  ]

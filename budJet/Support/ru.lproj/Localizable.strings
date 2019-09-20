@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  budJet
+
+  Created by Daniil Alferov on 10/07/2018.
+  Copyright © 2018 Daniil Alferov. All rights reserved.
+*/
+
+"Expense" = "Расходы";
+"Income" = "Доходы";
+"Mon" = "Пн";
+"Tue" = "Вт";
+"Wed" = "Ср";
+"Thu" = "Чт";
+"Fri" = "Пт";
+"Sat" = "Сб";
+"Sun" = "Вс";
+"Current month" = "Текущий месяц";
+"Today" = "Сегодня";
+"Yesterday" = "Вчера";
+"Clear" = "Очистить";
+"Done" = "Готово";
+"Cancel" = "Отмена";
+"Currency" = "Валюта";
+"Select your currency" = "Выберите Вашу валюту";
+"Pin-code" = "PIN-код";
+"Amount" = "Сумма";
+"Note" = "Заметка";
+"Spend" = "Потратить";
+"Deposit" = "Пополнить";
+"No incomes data for selected period" = "Нет информации о доходах за выбранный период";
+"No expenses data for selected period" = "Нет информации о расходах за выбранный период";
+"Error" = "Ошибка";
+"Enter amount" = "Введите сумму";
+"Select category" = "Выберите категорию";
+"Category" = "Категория";
+"Settings" = "Настройки";
+
+"Business" = "Бизнес";
+"Children" = "Дети";
+"Clothes_accessories" = "Одежда и аксессуары";
+"Education" = "Образование";
+"Electronics" = "Техника";
+"Entertainment_fun" = "Отдых и развлечения";
+"Food" = "Продукты";
+"Health_beauty" = "Красота и здоровье";
+"Hobby" = "Хобби";
+"Household" = "Дом";
+"Insurance" = "Страховка";
+"Loans_credits" = "Кредиты";
+"Others" = "Прочее";
+"Pets" = "Домашние животные";
+"Presents" = "Подарки";
+"Taxes" = "Налоги";
+"Utilities" = "Коммунальные платежи";
+"Vehicle" = "Автомобиль";
+"Sallary" = "Зарплата";
+"Dividend" = "Депозит";
+"Benefit" = "Пенсия";
+"Perk" = "Приработок";
+"Grants" = "Стипендия";

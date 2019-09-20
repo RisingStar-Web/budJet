@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Select your currency"; ObjectID = "59g-y9-Fe3"; */
+"59g-y9-Fe3.text" = "Select your currency";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "7HH-rS-m4Q"; */
+"7HH-rS-m4Q.text" = "USD";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "9Lf-Vc-wYN"; */
+"9Lf-Vc-wYN.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AUL-Oj-6cm"; */
+"AUL-Oj-6cm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Category"; ObjectID = "Ad5-Ad-KMe"; */
+"Ad5-Ad-KMe.normalTitle" = "Category";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "DE7-FC-xJz"; */
+"DE7-FC-xJz.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "Epp-TY-cgv"; */
+"Epp-TY-cgv.text" = "0.0";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "G9d-5E-dIe"; */
+"G9d-5E-dIe.text" = "--";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Hfm-SJ-hc3"; */
+"Hfm-SJ-hc3.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "I have no account yet"; ObjectID = "Hx8-EH-0Ek"; */
+"Hx8-EH-0Ek.normalTitle" = "I have no account yet";
+
+/* Class = "UILabel"; text = "You should sign in to keep your data up-to-date on all your devices."; ObjectID = "JaZ-Me-2dj"; */
+"JaZ-Me-2dj.text" = "You should sign in to keep your data up-to-date on all your devices.";
+
+/* Class = "UILabel"; text = "₽"; ObjectID = "LJY-M8-kZ6"; */
+"LJY-M8-kZ6.text" = "₽";
+
+/* Class = "UILabel"; text = "InApp purchases"; ObjectID = "LYh-Tb-YYK"; */
+"LYh-Tb-YYK.text" = "InApp purchases";
+
+/* Class = "UIButton"; normalTitle = "Spend"; ObjectID = "LYx-og-EQ3"; */
+"LYx-og-EQ3.normalTitle" = "Spend";
+
+/* Class = "UILabel"; text = "January"; ObjectID = "MnO-aF-IGY"; */
+"MnO-aF-IGY.text" = "January";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "NXD-zq-rNQ"; */
+"NXD-zq-rNQ.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "Remove ads"; ObjectID = "NYb-lk-Qu8"; */
+"NYb-lk-Qu8.normalTitle" = "Remove ads";
+
+/* Class = "UILabel"; text = "Income"; ObjectID = "OK2-O8-N2U"; */
+"OK2-O8-N2U.text" = "Income";
+
+/* Class = "UILabel"; text = "No data"; ObjectID = "OZ0-0P-bx2"; */
+"OZ0-0P-bx2.text" = "No data";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OgQ-zs-SrL"; */
+"OgQ-zs-SrL.text" = "Label";
+
+/* Class = "UILabel"; text = "No data"; ObjectID = "Oyn-Nr-2FH"; */
+"Oyn-Nr-2FH.text" = "No data";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "Q76-g6-v1E"; */
+"Q76-g6-v1E.text" = "Amount";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "S8g-RL-Mru"; */
+"S8g-RL-Mru.normalTitle" = "Change password";
+
+/* Class = "UILabel"; text = "Enter Password"; ObjectID = "SEQ-TF-aic"; */
+"SEQ-TF-aic.text" = "Enter Password";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Vjz-ua-X1G"; */
+"Vjz-ua-X1G.text" = "--";
+
+/* Class = "UILabel"; text = "Pin-code"; ObjectID = "VkY-hz-Kuz"; */
+"VkY-hz-Kuz.text" = "Pin-code";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "ZSk-0w-7Ma"; */
+"ZSk-0w-7Ma.placeholder" = "0";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "dId-j9-yN3"; */
+"dId-j9-yN3.text" = "--";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "eJb-OZ-FBN"; */
+"eJb-OZ-FBN.placeholder" = "Note";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "eck-K3-fQd"; */
+"eck-K3-fQd.normalTitle" = "Today";
+
+/* Class = "UIButton"; normalTitle = "Restore purchases"; ObjectID = "fXD-MC-ZS6"; */
+"fXD-MC-ZS6.normalTitle" = "Restore purchases";
+
+/* Class = "UILabel"; text = "Expence"; ObjectID = "gbL-Oh-DJq"; */
+"gbL-Oh-DJq.text" = "Expense";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "iCr-zj-Sae"; */
+"iCr-zj-Sae.text" = "Currency";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "j9Q-vo-2hh"; */
+"j9Q-vo-2hh.text" = "Account";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "jCr-U8-Ujs"; */
+"jCr-U8-Ujs.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "lZJ-bj-KB7"; */
+"lZJ-bj-KB7.normalTitle" = "LogIn";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "oe2-7W-gZe"; */
+"oe2-7W-gZe.text" = "Password";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "qMX-ER-EDf"; */
+"qMX-ER-EDf.text" = "0.0";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "tef-XY-8Xs"; */
+"tef-XY-8Xs.normalTitle" = "Sign In";

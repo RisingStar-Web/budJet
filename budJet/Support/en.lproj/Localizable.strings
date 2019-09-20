@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  budJet
+
+  Created by Daniil Alferov on 10/07/2018.
+  Copyright © 2018 Daniil Alferov. All rights reserved.
+*/
+
+"Expense" = "Expense";
+"Income" = "Income";
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+"Current month" = "Current month";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Clear" = "Clear";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Currency" = "Currency";
+"Select your currency" = "Select your currency";
+"Pin-code" = "Pin-code";
+"Amount" = "Amount";
+"Note" = "Note";
+"Spend" = "Spend";
+"Deposit" = "Deposit";
+"No incomes data for selected period" = "No incomes data for selected period";
+"No expenses data for selected period" = "No expenses data for selected period";
+"Error" = "Error";
+"Enter amount" = "Enter amount";
+"Select category" = "Select category";
+"Category" = "Category";
+"Settings" = "Settings";
+
+"Business" = "Business";
+"Sallary" = "Sallary";
+"Benefit" = "Benefit";
+"Presents" = "Presents";
+"Perk" = "Perk";
+"Dividend" = "Dividend";
+"Grants" = "Grants";
+"Vehicle" = "Vehicle";
+"Electronics" = "Electronics";
+"Children" = "Children";
+"Pets" = "Pets";
+"Health_beauty" = "Health & beauty";
+"Loans_credits" = "Loans & credits";
+"Utilities" = "Utilities";
+"Taxes" = "Taxes";
+"Education" = "Education";
+"Clothes_accessories" = "Clothes & accessories";
+"Entertainment_fun" = "Entertainment & fun";
+"Food" = "Food";
+"Others" = "Others";
+"Household" = "Household";
+"Insurance" = "Insurance";
+"Hobby" = "Hobby";
